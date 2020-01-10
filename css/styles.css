@@ -146,7 +146,7 @@ font-weight:bold;
   }
 }
 
-@media screen and (max-width : 480px){
+@media screen and (max-width : 506px){
 
  .only-mobile{
   visibility:visible;
